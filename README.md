@@ -84,4 +84,4 @@ python maincode.py
 *Piyush Pachare*  
 AI & Data Enthusiast 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/piyush-pachare/) | [GitHub](https://github.com/piyushpachare-work)
+
