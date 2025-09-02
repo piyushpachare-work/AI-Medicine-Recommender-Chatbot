@@ -82,6 +82,6 @@ python maincode.py
 
 ## 👤 Author
 *Piyush Pachare*  
-AI & Data Enthusiast | Python Developer  
+AI & Data Enthusiast 
 
-🔗 [LinkedIn](#) | [GitHub](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/piyush-pachare/) | [GitHub](https://github.com/piyushpachare-work)
