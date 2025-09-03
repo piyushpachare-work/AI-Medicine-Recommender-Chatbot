@@ -43,13 +43,13 @@ The goal: Assist users in finding potential medicines for common symptoms while 
 ---
 
 ## 📂 Project Structure
-
+```
 AI-Medicine-Recommender-Chatbot/
 ├── maincode.py          # Main Tkinter GUI & app logic
 ├── mediiii.csv          # Primary dataset of medicines & symptoms
 ├── medications.xls      # Supplementary dataset
 ├── README.md            # Project documentation
-
+```
 
 ---
 
